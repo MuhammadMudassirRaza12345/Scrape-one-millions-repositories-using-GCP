@@ -19,8 +19,7 @@ instructions to run it.
 3) Would be assessed on:
 a) Quality, testing, and reliability of the data pipeline
 -
-Bonus: Loading data into a cloud data warehouse (GCP, Azure,
-AWS, etc.)
+ 
 b) Visualization of results
 -
 Focus on identifying and analyzing distinct audiences in the
