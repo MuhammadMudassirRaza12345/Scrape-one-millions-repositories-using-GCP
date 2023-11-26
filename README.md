@@ -20,10 +20,8 @@ instructions to run it.
 
 3) Would be assessed on:
 a) Quality, testing, and reliability of the data pipeline
--
- 
 b) Visualization of results
--
+
 Focus on identifying and analyzing distinct audiences in the
 dataset (you can use descriptive or predictive approaches).
 
