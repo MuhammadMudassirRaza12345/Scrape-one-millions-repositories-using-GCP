@@ -27,7 +27,7 @@ b) Visualization of results
 Focus on identifying and analyzing distinct audiences in the
 dataset (you can use descriptive or predictive approaches).
 
-# Solution: instruction.pdf
+# Solution: [instruction.pdf](https://github.com/MuhammadMudassirRaza12345/Scrape-one-millions-repositories-using-GCP/blob/main/instruction.pdf)
 
 <img src="https://github.com/MuhammadMudassirRaza12345/Scrape-one-millions-repositories-using-GCP/blob/main/Github-public%20repos.png">
 <!-- https://github.com/MuhammadMudassirRaza12345/Scrape-one-millions-repositories-using-GCP/blob/main/Github-public%20repos.png -->
