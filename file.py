@@ -6,7 +6,7 @@ import concurrent.futures
 import threading
 
  
-token = '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'
+token = 'your github Api key token'
 headers = {
     'Authorization': f'Bearer {token}',
     'Accept': 'application/vnd.github+json',
